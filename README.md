@@ -1,2 +1,3 @@
 # tulsidemo
-This is my first Git Repository
+This is my first Git Repository.
+author - tulsi singh
